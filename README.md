@@ -1,3 +1,3 @@
 # calculator_app
 
-A new Flutter project.
+BAI THUC HANH 1 - FLUTTER - PTUDDDĐNT
