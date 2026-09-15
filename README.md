@@ -1,3 +1,3 @@
 # calculator_app
 
-BAI THUC HANH 1 - FLUTTER - PTUDDDĐNT
+Bai tap thuc hanh 1 - May Tinh Don Gian - Flutter - PTUDDDDNT
